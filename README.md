@@ -43,7 +43,7 @@ Contribuições são bem-vindas! Se você quiser melhorar ou adicionar recursos 
 
 O projeto está licenciado sob (N/T).
 
-## RESPONSÁVEIS PELA EMPRESA:
+## RESPONSÁVEIS PELO PROJETO:
 
 - Nome: Dálleth Martins
 
