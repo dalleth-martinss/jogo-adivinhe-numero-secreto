@@ -22,7 +22,7 @@ O projeto possui a seguinte estrutura de diretórios e arquivos:
 
 Para executar o projeto localmente, siga as etapas abaixo:
 
-1. acesse o site: https://vercel.com/dalleth-martinss/jogo-adivinhe-numero-secreto
+1. acesse o site: https://jogo-adivinhe-numero-secreto-2mgdeazxl-dalleth-martinss.vercel.app/
 ou: 
 1. Clone o repositório para o seu ambiente de desenvolvimento.
 2. Abra o arquivo `index.html` em seu navegador da web.
