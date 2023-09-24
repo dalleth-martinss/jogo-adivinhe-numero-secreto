@@ -1,6 +1,4 @@
-# jogo-adivinhe-numero-secreto
-
-# Jogo de advinhação utilizando HTML, CSS, JavaScript 
+# Jogo de adivinhação utilizando HTML, CSS, JavaScript 
 
 Este é um projeto que desenvolvi utilizando as tecnologias HTML, CSS, JavaScript. 
 
